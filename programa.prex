@@ -1,0 +1,18 @@
+PROGRAMA PREX {
+    FLOAT nota1;
+    FLOAT nota2, nota3;
+
+	LER nota1;
+    ESCREVER nota1;
+
+    LER nota2;
+    ESCREVER nota2;
+    
+    nota1 = 3,14;
+    nota1 = nota2;
+    nota2 = - nota1 nota3;
+    nota2 = + nota1 3,5 - nota3 - nota1 / nota2;
+
+    ESCREVER nota1;
+    ESCREVER nota2;
+}
